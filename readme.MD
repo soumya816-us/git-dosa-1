@@ -12,6 +12,7 @@
 
 # Special Dosa
 * Dosa Batter
+* podi
+* karam
+* oil
 * Bombai chutney
-* Podi
-* Oil
